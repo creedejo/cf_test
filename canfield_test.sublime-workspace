@@ -1,0 +1,482 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"va",
+				"validation_error"
+			],
+			[
+				"uplo",
+				"uploadable"
+			],
+			[
+				"file",
+				"file_type"
+			],
+			[
+				"text",
+				"text-decoration-color"
+			],
+			[
+				"is_w",
+				"is_writeable"
+			],
+			[
+				"the",
+				"theData"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"post",
+				"post_data"
+			],
+			[
+				"e",
+				"echo	<?php echo … ?>"
+			],
+			[
+				"root",
+				"root"
+			],
+			[
+				"sql",
+				"sql_prep_insert"
+			],
+			[
+				"last",
+				"lastnames"
+			],
+			[
+				"tablet",
+				"tablet-landscape"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"respon",
+				"responseP"
+			],
+			[
+				"error",
+				"errorThrown"
+			],
+			[
+				"re",
+				"responseContainer"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"target",
+				"targetY"
+			],
+			[
+				"tar",
+				"targetY"
+			],
+			[
+				"page",
+				"page_container"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"section",
+				"sectionTop"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"fony",
+				"font-family"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"skill",
+				"skillsData"
+			],
+			[
+				"sourcem",
+				"sourcemaps"
+			],
+			[
+				"mini",
+				"minifyCss"
+			],
+			[
+				"de",
+				"dest"
+			],
+			[
+				"p",
+				"pipe"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/footer.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/header.php",
+			"settings":
+			{
+				"buffer_size": 28,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 536.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Projects/code_examples/file_upload/page.php",
+		"/C/Projects/personal/site/contact.php",
+		"/C/Projects/personal/site/index.html",
+		"/C/Projects/code_examples/file_upload/index.html",
+		"/C/Projects/code_examples/file_upload/gulpfile.js",
+		"/C/Projects/code_examples/file_upload/assets/js/main.js",
+		"/C/Projects/code_examples/file_upload/src/js/main.js",
+		"/C/Projects/code_examples/file_upload/src/scss/styles.scss",
+		"/C/Projects/personal/site/src/scss/styles.scss",
+		"/C/Projects/code_examples/php_reference/README.md",
+		"/C/Projects/code_examples/file_upload/README.md",
+		"/C/Projects/code_examples/file_upload/.gitignore",
+		"/C/Projects/code_examples/php_reference/.gitignore",
+		"/C/Projects/code_examples/php_reference/app/class/person/person.employee.class.php",
+		"/C/Projects/Skye_WS/courseTracker/courseTracker/App_Code/UserData.cs",
+		"/C/Projects/code_examples/php_reference/app/class/person/person.class.php",
+		"/C/Projects/code_examples/php_reference/app/class/person/data_access/person_add.php",
+		"/C/Projects/Skye_WS/courseTracker/courseTracker/App_Code/DataAccess/AddUserData.cs",
+		"/C/Projects/personal/site/src/js/main.js",
+		"/C/Projects/personal/site/src/scss/_contact.scss",
+		"/C/Projects/personal/site/.gitignore",
+		"/C/Projects/personal/site/app/config.php",
+		"/C/Projects/personal/site/README.md",
+		"/C/Projects/personal/site/package.json",
+		"/C/Projects/personal/site/robots.txt",
+		"/C/Projects/personal/site/module/index.html",
+		"/C/Projects/personal/site/module/mod.js",
+		"/C/Projects/personal/site/src/scss/_about.scss",
+		"/C/Projects/PHP/database.php",
+		"/C/Projects/PHP/app/person.class.php",
+		"/C/Projects/PHP/insertclass.php",
+		"/C/Projects/PHP/config/config.php",
+		"/C/Projects/PHP/useClass.php",
+		"/C/Projects/PHP/index.php",
+		"/C/Projects/PHP/phpinfo.php",
+		"/C/Projects/personal/site/src/scss/_education.scss",
+		"/C/Projects/personal/site/src/scss/_experience.scss",
+		"/C/Projects/personal/site/src/scss/_skills.scss",
+		"/C/Projects/personal/site/src/scss/_intro.scss",
+		"/C/Projects/personal/site/data/content.json",
+		"/C/Projects/personal/site/src/scss/_base.scss",
+		"/C/Projects/personal/site/assets/img/about_w.png",
+		"/C/Projects/personal/site/sendemail.php",
+		"/C/Projects/personal/site/src/scss/_variables.scss",
+		"/C/Projects/personal/site/src/scss/_sections.scss",
+		"/C/Projects/personal/site/src/scss/_ios.scss",
+		"/C/Projects/personal/site/src/scss/_nav.scss",
+		"/C/Projects/personal/site/src/scss/_social.scss",
+		"/C/Projects/laravel/jkprep/app/Http/Controllers/MyController.php",
+		"/C/Projects/laravel/jkprep/app/Http/Controllers/UserController.php",
+		"/C/Projects/laravel/jkprep/app/Http/Middleware/SecondMiddleware.php",
+		"/C/Projects/laravel/jkprep/app/Http/Middleware/FirstMiddleware.php",
+		"/C/Projects/laravel/jkprep/app/Http/Kernel.php",
+		"/C/Projects/laravel/jkprep/app/Http/routes.php",
+		"/C/Projects/laravel/jkprep/resources/views/welcome.blade.php",
+		"/C/Projects/laravel/jkprep/app/Http/Middleware/TerminateMiddleware.php",
+		"/C/Projects/laravel/jkprep/app/Http/Controllers/ABCController.php",
+		"/C/Projects/laravel/jkprep/app/Http/Controllers/TestController.php",
+		"/C/Projects/laravel/jkprep/app/Http/Middleware/RoleMiddleware.php",
+		"/C/Projects/laravel/jkprep/app/Http/Middleware/AgeMiddleware.php",
+		"/C/Projects/laravel/jkprep/config/database.php",
+		"/C/Program Files/PHP/v7.0/php.ini",
+		"/C/Projects/PHP/test.php",
+		"/C/Projects/personal/site/src/scss/_fonts.scss",
+		"/C/Projects/personal/site/src/scss/_employment.scss",
+		"/C/Projects/personal/site/gulpfile.js",
+		"/C/Projects/personal/site/views/intro.html",
+		"/C/Projects/personal/site/src/scss/_breakpoints.scss",
+		"/C/Projects/personal/site/src/js/functions.js",
+		"/C/Projects/personal/site/src/scss/base.scss",
+		"/C/Projects/personal/site/assets/styles/base.css",
+		"/C/Projects/personal/site/assets/styles/styles.css",
+		"/C/Projects/personal/site/assets/styles/styles.min.css",
+		"/C/Projects/personal/site/src/scss/variables.scss",
+		"/C/Projects/personal/site/assets/js/main.min.js",
+		"/C/Projects/personal/site/assets/js/main.js",
+		"/C/Projects/personal/site/src/scss/bas.scss"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"linked",
+			"php_mysql",
+			"mysql",
+			"sql",
+			"-348px",
+			"-232px",
+			"-116px",
+			"gree",
+			"section",
+			"ctrl",
+			"\"skill\":",
+			">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"99%",
+			"66%",
+			"33%",
+			"div",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/footer.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/header.php",
+					"settings":
+					{
+						"buffer_size": 28,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true
+}
